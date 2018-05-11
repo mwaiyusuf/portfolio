@@ -4,6 +4,7 @@ body{
 #par{
     display: block;
 }
+/*
 #back{
     background-image: url("/img/unerstard.jpg")no-repeat center center
         fixed;
@@ -12,6 +13,7 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
+*/
 #imgsvg{
     width: 50vw;
     height: 30vh;
