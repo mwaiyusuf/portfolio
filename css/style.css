@@ -1,6 +1,16 @@
 body{
     background: black;
 }
+#fxd{
+    margin-left: 420px;
+
+}
+#fxd:hover{
+    color: red;
+    transform: opacity 300ms  ease-in-out 1s;
+    transform: skewY(-15deg);
+    /*box-shadow: 0 60px 20px rgba(0,0,0,.1);*/
+}
 /*#par{
     display: block;
 }*/
