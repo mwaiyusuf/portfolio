@@ -7,6 +7,11 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
+#grtng{
+    font-size: 50px;
+    color: yellow;
+    margin-top: 90px;
+}
 
 /*body{
     background: url("/img/carl-cerstrand-127444-unsplash")no-repeat center center
