@@ -1,5 +1,10 @@
 body{
-    background: black;
+    background-image: url("/img/unerstard.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #fxd{
     margin-left: 420px;
@@ -19,16 +24,16 @@ body{
 /*#par{
     display: block;
 }*/
-/*
-#back{
+
+/*#back{
     background-image: url("/img/unerstard.jpg")no-repeat center center
         fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-*/
+}*/
+
 #imgsvg{
     width: 50vw;
     height: 30vh;
