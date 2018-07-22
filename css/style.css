@@ -8,9 +8,16 @@ body{
     background-size: cover;
 }
 #grtng{
-    font-size: 50px;
-    color: yellow;
+    font-size: 80px;
+    color: darkturquoise;
     margin-top: 300px;
+    margin-left: 120px;
+}
+#am{
+    font-size: 18px;
+    color: mistyrose;
+    margin-left: 80px;
+    
 }
 
 /*body{
