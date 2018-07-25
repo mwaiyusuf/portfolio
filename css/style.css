@@ -1,5 +1,6 @@
 
 body{
+    background-color: black;
 /*
     background: url("/img/carl-cerstrand-127444-unsplash.jpg")no-repeat center center 
         fixed;
@@ -8,6 +9,9 @@ body{
     -o-background-size: cover;
     background-size: cover;
 */
+}
+#icons{
+    padding-right: 10px;
 }
 #grtng{
     font-size: 80px;
