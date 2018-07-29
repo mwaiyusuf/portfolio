@@ -46,7 +46,8 @@ body{
     background-color: gainsboro;
 }
 #cv{
-    font-size: 25px
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
 }
 #am{
     font-size: 18px;
