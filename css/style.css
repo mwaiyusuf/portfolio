@@ -11,9 +11,9 @@ body{
 #icons{
     margin-top: 90px;
     padding-right: 30px;
-    color: blue;
+    color: mediumturquoise;
     margin-left: 100px;
-    
+    transform: rotate(-15deg);
 }
 #grtng{
     font-size: 80px;
