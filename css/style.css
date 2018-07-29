@@ -11,10 +11,14 @@ body{
 #icons{
     margin-top: 90px;
     padding-right: 30px;
-    color: mediumturquoise;
+    color: black;
     margin-left: 100px;
     transform: rotate(-15deg);
+    animation-name: icns;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
 }
+
 #grtng{
     font-size: 80px;
     color: darkturquoise;
