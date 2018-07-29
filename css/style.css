@@ -11,14 +11,16 @@ body{
 #icons{
     margin-top: 90px;
     padding-right: 30px;
-    color: black;
+    color: white;
     margin-left: 100px;
     transform: rotate(-15deg);
+    border-top: 20px solid darkturquoise;
+    border-radius: 40px;
     animation-name: icns;
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
-@keyframes circ{
+@keyframes icns{
     0%{ border-radius: 50% 50% 59% 50%;}
     25%{ border-radius: 50% 50% 50% 0;}
     50%{ border-radius: 50% 50% 0   0;}
