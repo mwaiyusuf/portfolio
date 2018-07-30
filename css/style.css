@@ -82,6 +82,26 @@ font-family: 'Lobster Two', cursive;
     transform: skewY(-15deg);   
     border-color: aqua;
 }
+.content{
+    display: grid;
+    max-width: 970px;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(3,minmax(200px,auto));
+    grid-gap: 10px;
+    margin-top: 50px;
+    
+}
+.content div{
+    background-image: url( /img/travel.jpg)no-repeat center center
+        fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.content div:nth-child(even){
+    background: yellow;
+}
 /*#par{
     display: block;
 }*/
