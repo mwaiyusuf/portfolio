@@ -92,7 +92,7 @@ font-family: 'Lobster Two', cursive;
     
 }
 .content div{
-    background-image: url( /img/travel.jpg)no-repeat center center
+    background: url( /img/travel.jpg)no-repeat center center
         fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
