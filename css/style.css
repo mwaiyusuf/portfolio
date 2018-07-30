@@ -82,6 +82,7 @@ font-family: 'Lobster Two', cursive;
     transform: skewY(-15deg);   
     border-color: aqua;
 }
+/*
 .content{
     display: grid;
     max-width: 970px;
@@ -91,7 +92,8 @@ font-family: 'Lobster Two', cursive;
     margin-top: 50px;
     
 }
-.content div{
+*/
+/*.content div{*/
 /*
     background: url( /img/travel.jpg)no-repeat center center
         fixed;
@@ -101,7 +103,7 @@ font-family: 'Lobster Two', cursive;
     background-size: cover;
 */
 }
-.content div:nth-child(even){
+/*.content div:nth-child(even){*/
 /*    background: blue;*/
 /*
     background-image: url(/img/clark-street-mercantile-33931-unsplash.jpg)no-repeat center center
@@ -112,8 +114,9 @@ font-family: 'Lobster Two', cursive;
     background-size: cover;
 */
 }
-#two{
+/*#two{*/
 /*    grid-row: 2/4;*/
+/*
    background: url(/img/store-compressor.jpg)no-repeat center center
         fixed;
     -webkit-background-size: cover;
@@ -121,6 +124,7 @@ font-family: 'Lobster Two', cursive;
     -o-background-size: cover;
     background-size: cover;  
 }
+*/
 /*#par{
     display: block;
 }*/
