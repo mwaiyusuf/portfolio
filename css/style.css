@@ -100,6 +100,7 @@ font-family: 'Lobster Two', cursive;
     background-size: cover;
 }
 .content div:nth-child(even){
+/*    background: blue;*/
 /*
     background-image: url(/img/clark-street-mercantile-33931-unsplash.jpg)no-repeat center center
         fixed;
@@ -110,7 +111,12 @@ font-family: 'Lobster Two', cursive;
 */
 }
 #two{
-    
+   background-image: url(/img/clark-street-mercantile-33931-unsplash.jpg)no-repeat center center
+        fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
 }
 /*#par{
     display: block;
