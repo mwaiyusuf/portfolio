@@ -82,6 +82,9 @@ font-family: 'Lobster Two', cursive;
     transform: skewY(-15deg);   
     border-color: aqua;
 }
+#second{
+    margin-top: 50px;
+}
 /*
 .content{
     display: grid;
