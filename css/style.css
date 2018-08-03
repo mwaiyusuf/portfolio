@@ -85,6 +85,9 @@ font-family: 'Lobster Two', cursive;
 #second{
     margin-top: 50px;
 }
+#second: hover{
+    opacity: 30%
+}
 /*
 .content{
     display: grid;
