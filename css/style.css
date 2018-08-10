@@ -88,7 +88,12 @@ font-family: 'Lobster Two', cursive;
 #second: hover{
     opacity: 30%
 }
-#img
+#img{
+    
+}
+#img:hover{
+    
+}
 /*
 .content{
     display: grid;
