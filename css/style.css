@@ -91,7 +91,7 @@ font-family: 'Lobster Two', cursive;
 #img{
     
 }
-img:hover {
+#img:hover {
     opacity: 1.0;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
