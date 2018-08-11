@@ -85,14 +85,15 @@ font-family: 'Lobster Two', cursive;
 #second{
     margin-top: 50px;
 }
-#img{
-    
-}
-#img:hover {
-    opacity: 1.0;
-    
+#img {
+    opacity: 0.7;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
+#img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
 /*
 .content{
     display: grid;
