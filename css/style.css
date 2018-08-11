@@ -33,8 +33,7 @@ body{
 #grtng{
     font-size: 80px;
     color: darkturquoise;
-    margin-top: 300px;
-    margin-left: 120px;
+/*    margin-left: 80px;*/
 }
 #abt{
     font-size: 50px;
@@ -67,17 +66,23 @@ font-family: 'Lobster Two', cursive;
     background-size: cover; 
 }*/
 #fxd{
-    margin-left: 420px;
+    margin-left: 320px;
     color: turquoise;
     text-decoration: none;
+    list-style-type: none;
+    font-weight: bold;
 
 }
 #fixd{
     color: darkturquoise;
     text-decoration: none;
+    list-style-type: none;
+    font-weight: bold;
+    
 }
 li{
      text-decoration: none;
+    list-style-type: none;
 }
 #fxd:hover{
     color: black;
