@@ -68,7 +68,16 @@ font-family: 'Lobster Two', cursive;
 }*/
 #fxd{
     margin-left: 420px;
+    color: turquoise;
+    text-decoration: none;
 
+}
+#fixd{
+    color: darkturquoise;
+    text-decoration: none;
+}
+li{
+     text-decoration: none;
 }
 #fxd:hover{
     color: black;
@@ -87,12 +96,13 @@ font-family: 'Lobster Two', cursive;
 }
 #img {
     opacity: 0.7;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+    filter: alpha(opacity=50); 
 }
 
 #img:hover {
     opacity: 1.0;
-    filter: alpha(opacity=100); /* For IE8 and earlier */
+    filter: alpha(opacity=100); 
+    transform: skewy(-6deg);
 }
 /*
 .content{
