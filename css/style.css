@@ -76,6 +76,9 @@ font-family: 'Lobster Two', cursive;
     font-weight: bold;
 
 }
+#cont{
+    margin-left: 500px;
+}
 #cntct{
     margin-top: 20px;
 }
