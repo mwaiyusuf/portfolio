@@ -69,7 +69,7 @@ font-family: 'Lobster Two', cursive;
     background-size: cover; 
 }*/
 #fxd{
-/*    margin-left: 820px;*/
+    margin-left: 820px;
     color: turquoise;
     text-decoration: none;
     list-style-type: none;
@@ -87,6 +87,7 @@ font-family: 'Lobster Two', cursive;
     text-decoration: none;
     list-style-type: none;
     font-weight: bold;
+    margin-left: 300px;
     
 }
 li{
