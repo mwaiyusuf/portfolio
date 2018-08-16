@@ -6,8 +6,8 @@
 //}
  function validateEmail() {
 2   var eEntered = document.getElementById("address").value;
-3   var regex = /^[\w\-\.\+]+\@[a-zA-Z0-9\. \-]+\.[a-zA-z0-9]{2,4}$/;
-4   if (!(eEntered.match(emailCorrectPattern))) {
+   var regex = /^[\w\-\.\+]+\@[a-zA-Z0-9\. \-]+\.[a-zA-z0-9]{2,4}$/;
+   if (!(eEntered.match(emailCorrectPattern))) {
      alert("Please correct email address");
      return false;    }
  } 
