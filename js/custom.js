@@ -8,6 +8,6 @@
 //   var eEntered = document.getElementById("address").value;
 //   var regex = /^[\w\-\.\+]+\@[a-zA-Z0-9\. \-]+\.[a-zA-z0-9]{2,4}$/;
 //   if (!(eEntered.match(emailCorrectPattern))) {
-     alert("Please correct email address");
-     return false;    }
- } 
+//     alert("Please correct email address");
+//     return false;    }
+// } 
