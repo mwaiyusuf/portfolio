@@ -11,7 +11,7 @@ body{
 #icons{
     margin-top: 90px;
     margin-bottom: 40px;
-    padding-right: 30px;
+    padding: 10px;
     color: white;
     margin-left: 100px;
     transform: rotate(-15deg);
