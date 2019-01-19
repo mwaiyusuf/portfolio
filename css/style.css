@@ -78,6 +78,9 @@ font-family: 'Lobster Two', cursive;
 #cntcts:hover{
     background-color: lawngreen;
 }
+#snd:hover{
+    background-color: lawngreen;
+}
 #fixd{
     color: darkturquoise;
     text-decoration: none;
